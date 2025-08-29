@@ -41,6 +41,143 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Aloe",
+      "image": "./images/zz-plant.jpg",
+      "price": 15.99,
+      "inStock": true,
+      "id": 8
+    },
+    {
+      "name": "Aloe",
+      "image": "./images/zz-plant.jpg",
+      "price": 15.99,
+      "inStock": true,
+      "id": 9
+    },
+    {
+      "name": "Aloe",
+      "image": "./images/zz-plant.jpg",
+      "price": 15.99,
+      "inStock": true,
+      "id": 10
+    },
+    {
+      "name": "Aloe",
+      "image": "./images/zz-plant.jpg",
+      "price": 15.99,
+      "inStock": true,
+      "id": 11
+    },
+    {
+      "name": "Aloe",
+      "image": "./images/zz-plant.jpg",
+      "price": 15.99,
+      "inStock": true,
+      "id": 12
+    },
+    {
+      "name": "zz",
+      "image": "./images/zz-plant.jpg",
+      "price": "15.99",
+      "id": 13
+    },
+    {
+      "name": "zz",
+      "image": "./images/zz-plant.jpg",
+      "price": "15.99",
+      "id": 14
+    },
+    {
+      "name": "zz",
+      "image": "./images/zz-plant.jpg",
+      "price": "15.99",
+      "id": 15
+    },
+    {
+      "name": "zz",
+      "image": "./images/zz-plant.jpg",
+      "price": "15.99",
+      "id": 16
+    },
+    {
+      "name": "zz",
+      "image": "./images/zz-plant.jpg",
+      "price": "15.99",
+      "id": 17
+    },
+    {
+      "name": "zz",
+      "image": "./images/zz-plant.jpg",
+      "price": "15.99",
+      "id": 18
+    },
+    {
+      "name": "zz",
+      "image": "./images/zz-plant.jpg",
+      "price": "15.99",
+      "id": 19
+    },
+    {
+      "name": "zz",
+      "image": "./images/zz-plant.jpg",
+      "price": "15.99",
+      "id": 20
+    },
+    {
+      "name": "Fancy",
+      "image": "./images/pothos.jpg",
+      "price": "11.21",
+      "id": 21
+    },
+    {
+      "name": "Fancy",
+      "image": "./images/pothos.jpg",
+      "price": "11.21",
+      "id": 22
+    },
+    {
+      "name": "Fancy",
+      "image": "./images/pothos.jpg",
+      "price": "11.21",
+      "id": 23
+    },
+    {
+      "name": "Fancy",
+      "image": "./images/pothos.jpg",
+      "price": "11.21",
+      "id": 24
+    },
+    {
+      "name": "Fancy",
+      "image": "./images/pothos.jpg",
+      "price": "11.21",
+      "id": 25
+    },
+    {
+      "name": "Fancy",
+      "image": "./images/pothos.jpg",
+      "price": "11.21",
+      "id": 26
+    },
+    {
+      "name": "Fancy",
+      "image": "./images/pothos.jpg",
+      "price": "11.21",
+      "id": 27
+    },
+    {
+      "name": "Fancy",
+      "image": "./images/pothos.jpg",
+      "price": "11.21",
+      "id": 28
+    },
+    {
+      "name": "Tuff",
+      "image": "./images/zz-plant.jpg",
+      "price": "70",
+      "id": 29
     }
   ]
 }

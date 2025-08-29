@@ -2,7 +2,7 @@ import React from "react";
 import Header from "./Header";
 import PlantPage from "./PlantPage";
 
-function App() {
+function App({onSearch}) {
   return (
     <div className="app">
       <Header />
